@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a self-taught Programmer. I like to build performant applications and find more inventive ways to use JavaScript. 👽
+### I'm a self-taught Programmer. I like to build performant applications and find more inventive ways to use JavaScript and TypeScript. 👽
 
 - 🔭 I’m currently working on a Fashion + AI + Tech Application
 - 🌱 I’m currently learning Machine Learning
