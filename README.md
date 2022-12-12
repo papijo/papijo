@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I'm a self-taught Programmer. I like to build performant applications and find more inventive ways to use JavaScript and TypeScript. 👽
 
 - 🔭 I’m currently working on a Fashion + AI + Tech Application
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on open source
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything in my repositories and i promise you a good nerdy chat.
