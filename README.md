@@ -27,6 +27,8 @@ I'm a Software Engineer, Data Engineer, Full Stack Developer. I like to build pe
 
 - <b>My recent projects: </b>
 
+  - <a href="https://github.com/papijo/data_warehouse_redshift">Data Warehousing with Amazon Redshift and Amazon S3</a>
+
   - <a href="https://github.com/papijo/data_modelling_postgres">Relational Data Modelling with Postgres DB</a>
   - <a href="https://github.com/papijo/data_modelling_cassandra">Non-Relational Data Modelling with Apache Cassandra DB</a>
   - <a href="https://github.com/papijo/go_cli_ticketing_application">Command Line Interface Ticketing Application</a>
