@@ -38,6 +38,6 @@ I'm a Software Engineer, Data Engineer, Full Stack Developer. I like to build pe
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-liard-omega-81.vercel.app/api?username=papijo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=tokyonight" alt="papijo" /></p>
 
-<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats-liard-omega-81.vercel.app/api/top-langs/?username=papijo&layout=compact&theme=tokyonight" />
+<p><img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats-liard-omega-81.vercel.app/api/top-langs/?username=papijo&layout=compact&theme=tokyonight" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papijo&layout=compact&theme=tokyonight" alt="papijo" /></p>
