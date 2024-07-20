@@ -40,4 +40,4 @@ I'm a Software Engineer, Data Engineer, Full Stack Developer. I like to build pe
 
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats-liard-omega-81.vercel.app/api/top-langs/?username=papijo&layout=compact&theme=tokyonight" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papijo&" alt="papijo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papijo&layout=compact&theme=tokyonight" alt="papijo" /></p>
