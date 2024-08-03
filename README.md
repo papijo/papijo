@@ -2,8 +2,8 @@
 
 I'm a Software Engineer, Data Engineer, Full Stack Developer. I like to build performant applications and find more inventive ways to use Go, Python, JavaScript and TypeScript. 👽
 
-- 🔭 I’m currently working on a Fashion + AI + Tech Application
-- 🌱 I’m currently learning Data Engineering
+- 🔭 I have built projects across various industries such as Education, Government, Utilities.
+- 🌱 I am currently looking for projects in Data Engineering to spread my wings in the world of Data.
 - 👯 I’m looking to collaborate on open source
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything in my repositories and i promise you a good nerdy chat.
